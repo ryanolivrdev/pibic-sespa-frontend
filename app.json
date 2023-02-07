@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pibic-sespa-frontend",
+    "slug": "pibic-sespa-frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
